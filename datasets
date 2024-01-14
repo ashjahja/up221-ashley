@@ -3,10 +3,10 @@ Data set 1
 1. Los Angeles County Climate Vulnerability Assessment Social Sensitivity Index
 2. This data sets maps out 29 social vulnerability indicators including race, access to healthcare, chronic illness and others. This could be used to identify at-risk populations within Los Angeles.
 3. https://data.lacounty.gov/datasets/lacounty::los-angeles-county-cva-social-sensitivity-index/explore
+4. https://github.com/ashjahja/up221-ashley/blob/main/data/Los_Angeles_County_CVA_Social_Sensitivity_Index.csv 
   
 Data set 2
-1. Los Angeles County Green Zone Districts
-2. 
-Description of the data and how you may use it for your project
-A URL link to the source (if you got it from a website), or a description of where you got your data from
-A URL link to the data on your repo
+1. Outdoor Air Quality (PM 2.5) in Los Angeles County
+2. This data set contains PM 2.5 levels in Los Angeles County as collected by AirNow and AQS. PM 2.5 has no safe exposure levels and has been linked to the development of chronic diseases such as COPD and cancer. This data set could be used to track exposure within communities in Los Angeles.  
+3. https://www.epa.gov/outdoor-air-quality-data/download-daily-data 
+4. https://github.com/ashjahja/up221-ashley/blob/main/data/ad_viz_plotval_data.csv
